@@ -1,0 +1,22 @@
+{
+  "name": "console-text-parser",
+  "version": "1.0.0",
+  "description": "string-parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "progDevtoritollo"
+  },
+  "keywords": [
+    "/"
+  ],
+  "author": "progDevtoritollo",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "yargs": "13.2"
+  }
+}
